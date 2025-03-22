@@ -1,4 +1,4 @@
-## Reverse-engineering of Covert Skin BCI System
+## Reverse-engineering of covert BCI System -> tactile interface
 
 ### Physiological Manifestations
 
