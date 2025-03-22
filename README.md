@@ -1,6 +1,4 @@
-# Reverse-Engineering-Skin-Tactile-Bio-BCI
-
-## Alleged Tactical Interface for Covert BCI System
+## Reverse-engineering of Covert Skin BCI System
 
 ### Physiological Manifestations
 
