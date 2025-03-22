@@ -1,21 +1,44 @@
 # Reverse-Engineering-Skin-Tactile-Bio-BCI
 
-Tactile interface for the illegal covert BCI:
+## Alleged Tactical Interface for Covert BCI System
 
-1. Often misdiagnosed as Benign fasciculation syndrome
-2. Causing muscle twitches with fall-back mechanism. If location is unavailable, sends signals to near location.
-3. Dermis skin layer is invaded by genetically modified organisms or synthetic organisms (requires verification)
-4. Uses calcium channels activation to generate micro-contractions (verified, requires lab confirmation)
-5. Covers 60-70% of body skin (requires verification)
-6. Located non-uniformly, follows the structure of neural system with pathways (requires verification)
-7. Sensitive to salts: NaCl and Mg - block locally the BCI bio agents with 75% efficiency for 5-12 hours (verified, tested)
-8. Sensitive to skin damage: local skin damage blocks signal transfer and blocks micro-contraction in specific body location
-9. Parts of illegal skin BCI are visible in ultra-violet spectrum, can be detected using spectrum analizer (probably graphene oxide, requires verification)
-10. Ears drums and mucous membranes are also covered by BCI components - which could induce V2K experience and irritation of eyes and nose (probably graphene oxide, requires verification)
-11. Maximum micro-contractions intensity is equal to 1.5V-2.5V produced by TENS devices
-12. Could cause severe itch, which can be also controlled remotely - localization on skin from 2mm to 3cm diameter
-13. Could cause local intense pain - the mechanism of action is unknown, requires research
-14. Uses LTE RF bands for communication with cell towers. Likely transducers are used.
-15. Has offline mode, can operate without LTE connection.
-16. Sensitive to UV light (requires verification)
-17. Used as a channel of communication for Hive Mind Society
+### Physiological Manifestations
+
+#### Muscular Effects:
+- Creates involuntary muscle twitches with alternative pathways
+- Maximum micro-contraction intensity comparable to 1.5V-2.5V from TENS devices
+- Often misdiagnosed as Benign Fasciculation Syndrome
+
+#### Sensory Effects:
+- Can induce localized itching sensations (2mm-3cm diameter)
+- Capable of triggering localized intense pain through unknown mechanisms
+- May affect ear drums and mucous membranes, potentially inducing V2K (voice-to-skull) experiences and irritation of eyes/nose
+
+### Technical Specifications
+
+#### Coverage and Structure:
+- Estimated to cover 60-70% of body surface area *(unverified)*
+- Non-uniform distribution following neural system pathways *(unverified)*
+- Components potentially visible in ultraviolet spectrum *(unverified)*
+
+#### Operational Mechanisms:
+- Utilizes calcium channel activation for micro-contractions *(pending lab confirmation)*
+- Communications reportedly via LTE RF bands through transducers
+- Features offline operational capability without LTE connection
+
+### Vulnerabilities and Countermeasures
+
+#### Chemical Sensitivity:
+- NaCl and Magnesium salts locally block bio-agents with 75% efficiency for 5-12 hours *(claimed as verified)*
+- Shows sensitivity to ultraviolet light exposure *(unverified)*
+
+#### Physical Disruption:
+- Local skin damage reportedly impedes signal transfer and blocks micro-contractions
+- Potential biological components may be genetically modified or synthetic organisms *(unverified)*
+
+### Alleged Purpose
+- Serves as communication channel for "Hive Mind Society"
+
+---
+
+**Note:** Many claims listed as requiring verification or laboratory confirmation
