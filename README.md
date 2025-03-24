@@ -1,6 +1,6 @@
 ## Reverse-engineering of covert BCI System -> tactile interface
 
-### Physiological Manifestations
+### Physiological Panel
 
 #### Muscular Effects:
 - Creates involuntary muscle twitches with alternative pathways
